@@ -1,6 +1,6 @@
 # python-slotted-aloha-simulator
 
-> **Python remake** of Shivam Prasad’s C++ **Slotted ALOHA** demo – for coursework, learning, and quick experimentation.
+> Python remake of Shivam Prasad’s C++ Slotted ALOHA demo – for coursework, learning, and quick experimentation.
 
 ---
 
