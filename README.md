@@ -8,7 +8,7 @@
 
 - Places senders randomly on an n × m grid  
 - Lets only mutually reachable nodes join  
-- Runs classic Slotted ALOHA: collision detection, random backoff, max‐retry **Kmax**  
+- Runs classic Slotted ALOHA: collision detection, random backoff, max‐retry Kmax
 - Prints per-slot log and final stats
 
 ---
