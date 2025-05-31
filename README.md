@@ -1,15 +1,15 @@
 # python-slotted-aloha-simulator
 
-> Python remake of Shivam Prasad’s C++ Slotted ALOHA demo – for coursework, learning, and quick experimentation.
+> Python implementation of the Slotted ALOHA protocol, adapted from a C++ demo by Shivam Prasad.
 
 ---
 
 ## ✨ What it does
 
-- Places senders randomly on an **n × m** grid  
+- Places senders randomly on an n × m grid  
 - Lets only mutually reachable nodes join  
-- Runs classic **Slotted ALOHA**: collision-detect, random back-off, max‐retry **Kmax**  
-- Prints per-slot log + final stats
+- Runs classic Slotted ALOHA: collision detection, random backoff, max‐retry **Kmax**  
+- Prints per-slot log and final stats
 
 ---
 
